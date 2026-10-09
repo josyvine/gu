@@ -1,0 +1,944 @@
+FRAME: 136
+TIMELINE: 11.33s
+TOTAL_LINES: 28
+----------------------------------------
+EXTRACTED TEXT & BOUNDING BOXES [x0, y0, width, height]:
+[91, 92, 234, 26] °5 udio.google.com
+[27, 178, 222, 36] Google AI Studio
+[74, 267, 113, 16] Dashboard
+[27, 321, 90, 14] PROJECT
+[84, 363, 84, 24] API Keys
+[34, 419, 124, 24] O Projects
+[28, 497, 167, 14] USAGE & BILLING
+[36, 540, 103, 23] il, Usage
+[35, 598, 142, 19] O Rate Limit
+[35, 654, 104, 24] ) Spend
+[35, 710, 100, 26] E Billing
+[27, 788, 89, 14] OBSERVE
+[36, 832, 233, 22] 9 Logs and Datasets
+[28, 932, 146, 25] Changelog 7
+[75, 1212, 202, 18] josymvine@gmail.com
+[376, 24, 173, 21] BO 0 65% 1:15
+[373, 238, 154, 22] Create API key
+[352, 408, 25, 16] ct
+[453, 98, 16, 10] 23
+[359, 620, 164, 21] My First Project
+[352, 669, 170, 20] ntra-460606-q0
+[396, 716, 126, 20] Jul 31, 2026
+[387, 761, 134, 24] Set up billing
+[450, 795, 71, 18] Free tier
+[352, 1143, 94, 24] eys here?
+[352, 1196, 183, 18] ojects imported into
+[354, 1222, 184, 18] ects to manage their
+[352, 1248, 188, 17] create a new API Key
+
+----------------------------------------
+RAW JSON COORDINATES:
+{
+  "frame": 136,
+  "time": 11.33,
+  "lines": [
+    {
+      "text": "°5 udio.google.com",
+      "bbox": {
+        "x0": 91,
+        "y0": 92,
+        "width": 234,
+        "height": 26
+      },
+      "words": [
+        {
+          "text": "°5",
+          "bbox": {
+            "x0": 91,
+            "y0": 92,
+            "width": 24,
+            "height": 26
+          }
+        },
+        {
+          "text": "udio.google.com",
+          "bbox": {
+            "x0": 139,
+            "y0": 92,
+            "width": 186,
+            "height": 26
+          }
+        }
+      ]
+    },
+    {
+      "text": "Google AI Studio",
+      "bbox": {
+        "x0": 27,
+        "y0": 178,
+        "width": 222,
+        "height": 36
+      },
+      "words": [
+        {
+          "text": "Google",
+          "bbox": {
+            "x0": 27,
+            "y0": 179,
+            "width": 98,
+            "height": 35
+          }
+        },
+        {
+          "text": "AI",
+          "bbox": {
+            "x0": 134,
+            "y0": 179,
+            "width": 24,
+            "height": 33
+          }
+        },
+        {
+          "text": "Studio",
+          "bbox": {
+            "x0": 168,
+            "y0": 178,
+            "width": 81,
+            "height": 34
+          }
+        }
+      ]
+    },
+    {
+      "text": "Dashboard",
+      "bbox": {
+        "x0": 74,
+        "y0": 267,
+        "width": 113,
+        "height": 16
+      },
+      "words": [
+        {
+          "text": "Dashboard",
+          "bbox": {
+            "x0": 74,
+            "y0": 267,
+            "width": 113,
+            "height": 16
+          }
+        }
+      ]
+    },
+    {
+      "text": "PROJECT",
+      "bbox": {
+        "x0": 27,
+        "y0": 321,
+        "width": 90,
+        "height": 14
+      },
+      "words": [
+        {
+          "text": "PROJECT",
+          "bbox": {
+            "x0": 27,
+            "y0": 321,
+            "width": 90,
+            "height": 14
+          }
+        }
+      ]
+    },
+    {
+      "text": "API Keys",
+      "bbox": {
+        "x0": 84,
+        "y0": 363,
+        "width": 84,
+        "height": 24
+      },
+      "words": [
+        {
+          "text": "API",
+          "bbox": {
+            "x0": 84,
+            "y0": 363,
+            "width": 28,
+            "height": 22
+          }
+        },
+        {
+          "text": "Keys",
+          "bbox": {
+            "x0": 120,
+            "y0": 364,
+            "width": 48,
+            "height": 23
+          }
+        }
+      ]
+    },
+    {
+      "text": "O Projects",
+      "bbox": {
+        "x0": 34,
+        "y0": 419,
+        "width": 124,
+        "height": 24
+      },
+      "words": [
+        {
+          "text": "O",
+          "bbox": {
+            "x0": 34,
+            "y0": 420,
+            "width": 23,
+            "height": 21
+          }
+        },
+        {
+          "text": "Projects",
+          "bbox": {
+            "x0": 73,
+            "y0": 420,
+            "width": 85,
+            "height": 23
+          }
+        }
+      ]
+    },
+    {
+      "text": "USAGE & BILLING",
+      "bbox": {
+        "x0": 28,
+        "y0": 497,
+        "width": 167,
+        "height": 14
+      },
+      "words": [
+        {
+          "text": "USAGE",
+          "bbox": {
+            "x0": 28,
+            "y0": 497,
+            "width": 64,
+            "height": 14
+          }
+        },
+        {
+          "text": "&",
+          "bbox": {
+            "x0": 101,
+            "y0": 497,
+            "width": 11,
+            "height": 14
+          }
+        },
+        {
+          "text": "BILLING",
+          "bbox": {
+            "x0": 120,
+            "y0": 497,
+            "width": 75,
+            "height": 14
+          }
+        }
+      ]
+    },
+    {
+      "text": "il, Usage",
+      "bbox": {
+        "x0": 36,
+        "y0": 540,
+        "width": 103,
+        "height": 23
+      },
+      "words": [
+        {
+          "text": "il,",
+          "bbox": {
+            "x0": 36,
+            "y0": 540,
+            "width": 19,
+            "height": 20
+          }
+        },
+        {
+          "text": "Usage",
+          "bbox": {
+            "x0": 72,
+            "y0": 541,
+            "width": 67,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "text": "O Rate Limit",
+      "bbox": {
+        "x0": 35,
+        "y0": 598,
+        "width": 142,
+        "height": 19
+      },
+      "words": [
+        {
+          "text": "O",
+          "bbox": {
+            "x0": 35,
+            "y0": 598,
+            "width": 23,
+            "height": 19
+          }
+        },
+        {
+          "text": "Rate",
+          "bbox": {
+            "x0": 74,
+            "y0": 598,
+            "width": 45,
+            "height": 19
+          }
+        },
+        {
+          "text": "Limit",
+          "bbox": {
+            "x0": 127,
+            "y0": 598,
+            "width": 50,
+            "height": 19
+          }
+        }
+      ]
+    },
+    {
+      "text": ") Spend",
+      "bbox": {
+        "x0": 35,
+        "y0": 654,
+        "width": 104,
+        "height": 24
+      },
+      "words": [
+        {
+          "text": ")",
+          "bbox": {
+            "x0": 35,
+            "y0": 654,
+            "width": 23,
+            "height": 24
+          }
+        },
+        {
+          "text": "Spend",
+          "bbox": {
+            "x0": 73,
+            "y0": 654,
+            "width": 66,
+            "height": 24
+          }
+        }
+      ]
+    },
+    {
+      "text": "E Billing",
+      "bbox": {
+        "x0": 35,
+        "y0": 710,
+        "width": 100,
+        "height": 26
+      },
+      "words": [
+        {
+          "text": "E",
+          "bbox": {
+            "x0": 35,
+            "y0": 711,
+            "width": 22,
+            "height": 22
+          }
+        },
+        {
+          "text": "Billing",
+          "bbox": {
+            "x0": 73,
+            "y0": 711,
+            "width": 62,
+            "height": 24
+          }
+        }
+      ]
+    },
+    {
+      "text": "OBSERVE",
+      "bbox": {
+        "x0": 27,
+        "y0": 788,
+        "width": 89,
+        "height": 14
+      },
+      "words": [
+        {
+          "text": "OBSERVE",
+          "bbox": {
+            "x0": 27,
+            "y0": 788,
+            "width": 89,
+            "height": 14
+          }
+        }
+      ]
+    },
+    {
+      "text": "9 Logs and Datasets",
+      "bbox": {
+        "x0": 36,
+        "y0": 832,
+        "width": 233,
+        "height": 22
+      },
+      "words": [
+        {
+          "text": "9",
+          "bbox": {
+            "x0": 36,
+            "y0": 832,
+            "width": 21,
+            "height": 22
+          }
+        },
+        {
+          "text": "Logs",
+          "bbox": {
+            "x0": 74,
+            "y0": 832,
+            "width": 49,
+            "height": 22
+          }
+        },
+        {
+          "text": "and",
+          "bbox": {
+            "x0": 131,
+            "y0": 832,
+            "width": 38,
+            "height": 22
+          }
+        },
+        {
+          "text": "Datasets",
+          "bbox": {
+            "x0": 178,
+            "y0": 832,
+            "width": 91,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "text": "Changelog 7",
+      "bbox": {
+        "x0": 28,
+        "y0": 932,
+        "width": 146,
+        "height": 25
+      },
+      "words": [
+        {
+          "text": "Changelog",
+          "bbox": {
+            "x0": 28,
+            "y0": 933,
+            "width": 112,
+            "height": 24
+          }
+        },
+        {
+          "text": "7",
+          "bbox": {
+            "x0": 160,
+            "y0": 932,
+            "width": 14,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "text": "josymvine@gmail.com",
+      "bbox": {
+        "x0": 75,
+        "y0": 1212,
+        "width": 202,
+        "height": 18
+      },
+      "words": [
+        {
+          "text": "josymvine@gmail.com",
+          "bbox": {
+            "x0": 75,
+            "y0": 1212,
+            "width": 202,
+            "height": 18
+          }
+        }
+      ]
+    },
+    {
+      "text": "BO 0 65% 1:15",
+      "bbox": {
+        "x0": 376,
+        "y0": 24,
+        "width": 173,
+        "height": 21
+      },
+      "words": [
+        {
+          "text": "BO",
+          "bbox": {
+            "x0": 376,
+            "y0": 24,
+            "width": 24,
+            "height": 21
+          }
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x0": 406,
+            "y0": 24,
+            "width": 19,
+            "height": 21
+          }
+        },
+        {
+          "text": "65%",
+          "bbox": {
+            "x0": 441,
+            "y0": 24,
+            "width": 28,
+            "height": 21
+          }
+        },
+        {
+          "text": "1:15",
+          "bbox": {
+            "x0": 514,
+            "y0": 24,
+            "width": 35,
+            "height": 21
+          }
+        }
+      ]
+    },
+    {
+      "text": "Create API key",
+      "bbox": {
+        "x0": 373,
+        "y0": 238,
+        "width": 154,
+        "height": 22
+      },
+      "words": [
+        {
+          "text": "Create",
+          "bbox": {
+            "x0": 373,
+            "y0": 238,
+            "width": 69,
+            "height": 21
+          }
+        },
+        {
+          "text": "API",
+          "bbox": {
+            "x0": 450,
+            "y0": 239,
+            "width": 32,
+            "height": 21
+          }
+        },
+        {
+          "text": "key",
+          "bbox": {
+            "x0": 493,
+            "y0": 240,
+            "width": 34,
+            "height": 20
+          }
+        }
+      ]
+    },
+    {
+      "text": "ct",
+      "bbox": {
+        "x0": 352,
+        "y0": 408,
+        "width": 25,
+        "height": 16
+      },
+      "words": [
+        {
+          "text": "ct",
+          "bbox": {
+            "x0": 352,
+            "y0": 408,
+            "width": 25,
+            "height": 16
+          }
+        }
+      ]
+    },
+    {
+      "text": "23",
+      "bbox": {
+        "x0": 453,
+        "y0": 98,
+        "width": 16,
+        "height": 10
+      },
+      "words": [
+        {
+          "text": "23",
+          "bbox": {
+            "x0": 453,
+            "y0": 98,
+            "width": 16,
+            "height": 10
+          }
+        }
+      ]
+    },
+    {
+      "text": "My First Project",
+      "bbox": {
+        "x0": 359,
+        "y0": 620,
+        "width": 164,
+        "height": 21
+      },
+      "words": [
+        {
+          "text": "My",
+          "bbox": {
+            "x0": 359,
+            "y0": 620,
+            "width": 30,
+            "height": 21
+          }
+        },
+        {
+          "text": "First",
+          "bbox": {
+            "x0": 398,
+            "y0": 620,
+            "width": 44,
+            "height": 21
+          }
+        },
+        {
+          "text": "Project",
+          "bbox": {
+            "x0": 451,
+            "y0": 620,
+            "width": 72,
+            "height": 21
+          }
+        }
+      ]
+    },
+    {
+      "text": "ntra-460606-q0",
+      "bbox": {
+        "x0": 352,
+        "y0": 669,
+        "width": 170,
+        "height": 20
+      },
+      "words": [
+        {
+          "text": "ntra-460606-q0",
+          "bbox": {
+            "x0": 352,
+            "y0": 669,
+            "width": 170,
+            "height": 20
+          }
+        }
+      ]
+    },
+    {
+      "text": "Jul 31, 2026",
+      "bbox": {
+        "x0": 396,
+        "y0": 716,
+        "width": 126,
+        "height": 20
+      },
+      "words": [
+        {
+          "text": "Jul",
+          "bbox": {
+            "x0": 396,
+            "y0": 716,
+            "width": 28,
+            "height": 20
+          }
+        },
+        {
+          "text": "31,",
+          "bbox": {
+            "x0": 434,
+            "y0": 716,
+            "width": 25,
+            "height": 20
+          }
+        },
+        {
+          "text": "2026",
+          "bbox": {
+            "x0": 469,
+            "y0": 716,
+            "width": 53,
+            "height": 20
+          }
+        }
+      ]
+    },
+    {
+      "text": "Set up billing",
+      "bbox": {
+        "x0": 387,
+        "y0": 761,
+        "width": 134,
+        "height": 24
+      },
+      "words": [
+        {
+          "text": "Set",
+          "bbox": {
+            "x0": 387,
+            "y0": 761,
+            "width": 33,
+            "height": 22
+          }
+        },
+        {
+          "text": "up",
+          "bbox": {
+            "x0": 428,
+            "y0": 762,
+            "width": 25,
+            "height": 22
+          }
+        },
+        {
+          "text": "billing",
+          "bbox": {
+            "x0": 461,
+            "y0": 763,
+            "width": 60,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "text": "Free tier",
+      "bbox": {
+        "x0": 450,
+        "y0": 795,
+        "width": 71,
+        "height": 18
+      },
+      "words": [
+        {
+          "text": "Free",
+          "bbox": {
+            "x0": 450,
+            "y0": 796,
+            "width": 35,
+            "height": 17
+          }
+        },
+        {
+          "text": "tier",
+          "bbox": {
+            "x0": 493,
+            "y0": 795,
+            "width": 28,
+            "height": 17
+          }
+        }
+      ]
+    },
+    {
+      "text": "eys here?",
+      "bbox": {
+        "x0": 352,
+        "y0": 1143,
+        "width": 94,
+        "height": 24
+      },
+      "words": [
+        {
+          "text": "eys",
+          "bbox": {
+            "x0": 352,
+            "y0": 1146,
+            "width": 28,
+            "height": 21
+          }
+        },
+        {
+          "text": "here?",
+          "bbox": {
+            "x0": 390,
+            "y0": 1143,
+            "width": 56,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "text": "ojects imported into",
+      "bbox": {
+        "x0": 352,
+        "y0": 1196,
+        "width": 183,
+        "height": 18
+      },
+      "words": [
+        {
+          "text": "ojects",
+          "bbox": {
+            "x0": 352,
+            "y0": 1196,
+            "width": 57,
+            "height": 18
+          }
+        },
+        {
+          "text": "imported",
+          "bbox": {
+            "x0": 417,
+            "y0": 1196,
+            "width": 79,
+            "height": 18
+          }
+        },
+        {
+          "text": "into",
+          "bbox": {
+            "x0": 504,
+            "y0": 1196,
+            "width": 31,
+            "height": 18
+          }
+        }
+      ]
+    },
+    {
+      "text": "ects to manage their",
+      "bbox": {
+        "x0": 354,
+        "y0": 1222,
+        "width": 184,
+        "height": 18
+      },
+      "words": [
+        {
+          "text": "ects",
+          "bbox": {
+            "x0": 354,
+            "y0": 1222,
+            "width": 36,
+            "height": 18
+          }
+        },
+        {
+          "text": "to",
+          "bbox": {
+            "x0": 397,
+            "y0": 1222,
+            "width": 16,
+            "height": 18
+          }
+        },
+        {
+          "text": "manage",
+          "bbox": {
+            "x0": 421,
+            "y0": 1222,
+            "width": 70,
+            "height": 18
+          }
+        },
+        {
+          "text": "their",
+          "bbox": {
+            "x0": 498,
+            "y0": 1222,
+            "width": 40,
+            "height": 18
+          }
+        }
+      ]
+    },
+    {
+      "text": "create a new API Key",
+      "bbox": {
+        "x0": 352,
+        "y0": 1248,
+        "width": 188,
+        "height": 17
+      },
+      "words": [
+        {
+          "text": "create",
+          "bbox": {
+            "x0": 352,
+            "y0": 1248,
+            "width": 54,
+            "height": 17
+          }
+        },
+        {
+          "text": "a",
+          "bbox": {
+            "x0": 413,
+            "y0": 1248,
+            "width": 9,
+            "height": 17
+          }
+        },
+        {
+          "text": "new",
+          "bbox": {
+            "x0": 430,
+            "y0": 1248,
+            "width": 36,
+            "height": 17
+          }
+        },
+        {
+          "text": "API",
+          "bbox": {
+            "x0": 472,
+            "y0": 1248,
+            "width": 29,
+            "height": 17
+          }
+        },
+        {
+          "text": "Key",
+          "bbox": {
+            "x0": 509,
+            "y0": 1248,
+            "width": 31,
+            "height": 17
+          }
+        }
+      ]
+    }
+  ]
+}
