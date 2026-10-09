@@ -1,0 +1,791 @@
+FRAME: 233
+TIMELINE: 19.42s
+TOTAL_LINES: 28
+----------------------------------------
+EXTRACTED TEXT & BOUNDING BOXES [x0, y0, width, height]:
+[91, 92, 234, 26] 23 udio.google.com
+[27, 178, 222, 36] Google AI Studio
+[27, 263, 87, 14] EXPLORE
+[73, 306, 117, 26] Playground
+[36, 359, 112, 24] 9 History
+[27, 438, 57, 14] BUILD
+[38, 482, 126, 23] + New app
+[36, 534, 126, 25] B8 My apps
+[33, 586, 113, 23] DB Gallery
+[27, 662, 82, 18] MANAGE
+[73, 709, 113, 19] Dashboard
+[36, 762, 198, 20] W Documentation
+[48, 998, 219, 17] Upgrade to unlock more
+[47, 1029, 222, 18] Access higher limits, Pro
+[48, 1059, 165, 17] models, and more.
+[75, 1208, 200, 23] josymvine@gmail.com
+[397, 25, 151, 21] 00: 65% 1:15
+[352, 400, 52, 15] lodels
+[414, 190, 17, 16] +
+[351, 456, 79, 31] Ddels
+[385, 583, 49, 17] Chat
+[453, 98, 16, 10] 23
+[444, 400, 62, 18] Agents
+[385, 550, 100, 16] Code and
+[385, 677, 60, 17] Video
+[385, 711, 116, 17] Generation
+[386, 814, 100, 17] Real-time
+[474, 1203, 38, 16] Run
+
+----------------------------------------
+RAW JSON COORDINATES:
+{
+  "frame": 233,
+  "time": 19.42,
+  "lines": [
+    {
+      "text": "23 udio.google.com",
+      "bbox": {
+        "x0": 91,
+        "y0": 92,
+        "width": 234,
+        "height": 26
+      },
+      "words": [
+        {
+          "text": "23",
+          "bbox": {
+            "x0": 91,
+            "y0": 92,
+            "width": 25,
+            "height": 26
+          }
+        },
+        {
+          "text": "udio.google.com",
+          "bbox": {
+            "x0": 137,
+            "y0": 92,
+            "width": 188,
+            "height": 26
+          }
+        }
+      ]
+    },
+    {
+      "text": "Google AI Studio",
+      "bbox": {
+        "x0": 27,
+        "y0": 178,
+        "width": 222,
+        "height": 36
+      },
+      "words": [
+        {
+          "text": "Google",
+          "bbox": {
+            "x0": 27,
+            "y0": 180,
+            "width": 98,
+            "height": 34
+          }
+        },
+        {
+          "text": "AI",
+          "bbox": {
+            "x0": 134,
+            "y0": 179,
+            "width": 24,
+            "height": 34
+          }
+        },
+        {
+          "text": "Studio",
+          "bbox": {
+            "x0": 169,
+            "y0": 179,
+            "width": 80,
+            "height": 34
+          }
+        }
+      ]
+    },
+    {
+      "text": "EXPLORE",
+      "bbox": {
+        "x0": 27,
+        "y0": 263,
+        "width": 87,
+        "height": 14
+      },
+      "words": [
+        {
+          "text": "EXPLORE",
+          "bbox": {
+            "x0": 27,
+            "y0": 263,
+            "width": 87,
+            "height": 14
+          }
+        }
+      ]
+    },
+    {
+      "text": "Playground",
+      "bbox": {
+        "x0": 73,
+        "y0": 306,
+        "width": 117,
+        "height": 26
+      },
+      "words": [
+        {
+          "text": "Playground",
+          "bbox": {
+            "x0": 73,
+            "y0": 306,
+            "width": 117,
+            "height": 26
+          }
+        }
+      ]
+    },
+    {
+      "text": "9 History",
+      "bbox": {
+        "x0": 36,
+        "y0": 359,
+        "width": 112,
+        "height": 24
+      },
+      "words": [
+        {
+          "text": "9",
+          "bbox": {
+            "x0": 36,
+            "y0": 360,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "text": "History",
+          "bbox": {
+            "x0": 73,
+            "y0": 360,
+            "width": 75,
+            "height": 23
+          }
+        }
+      ]
+    },
+    {
+      "text": "BUILD",
+      "bbox": {
+        "x0": 27,
+        "y0": 438,
+        "width": 57,
+        "height": 14
+      },
+      "words": [
+        {
+          "text": "BUILD",
+          "bbox": {
+            "x0": 27,
+            "y0": 438,
+            "width": 57,
+            "height": 14
+          }
+        }
+      ]
+    },
+    {
+      "text": "+ New app",
+      "bbox": {
+        "x0": 38,
+        "y0": 482,
+        "width": 126,
+        "height": 23
+      },
+      "words": [
+        {
+          "text": "+",
+          "bbox": {
+            "x0": 38,
+            "y0": 483,
+            "width": 15,
+            "height": 18
+          }
+        },
+        {
+          "text": "New",
+          "bbox": {
+            "x0": 72,
+            "y0": 483,
+            "width": 47,
+            "height": 20
+          }
+        },
+        {
+          "text": "app",
+          "bbox": {
+            "x0": 127,
+            "y0": 486,
+            "width": 37,
+            "height": 19
+          }
+        }
+      ]
+    },
+    {
+      "text": "B8 My apps",
+      "bbox": {
+        "x0": 36,
+        "y0": 534,
+        "width": 126,
+        "height": 25
+      },
+      "words": [
+        {
+          "text": "B8",
+          "bbox": {
+            "x0": 36,
+            "y0": 535,
+            "width": 21,
+            "height": 20
+          }
+        },
+        {
+          "text": "My",
+          "bbox": {
+            "x0": 73,
+            "y0": 535,
+            "width": 31,
+            "height": 22
+          }
+        },
+        {
+          "text": "apps",
+          "bbox": {
+            "x0": 112,
+            "y0": 537,
+            "width": 50,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "text": "DB Gallery",
+      "bbox": {
+        "x0": 33,
+        "y0": 586,
+        "width": 113,
+        "height": 23
+      },
+      "words": [
+        {
+          "text": "DB",
+          "bbox": {
+            "x0": 33,
+            "y0": 586,
+            "width": 26,
+            "height": 20
+          }
+        },
+        {
+          "text": "Gallery",
+          "bbox": {
+            "x0": 72,
+            "y0": 588,
+            "width": 74,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "text": "MANAGE",
+      "bbox": {
+        "x0": 27,
+        "y0": 662,
+        "width": 82,
+        "height": 18
+      },
+      "words": [
+        {
+          "text": "MANAGE",
+          "bbox": {
+            "x0": 27,
+            "y0": 662,
+            "width": 82,
+            "height": 18
+          }
+        }
+      ]
+    },
+    {
+      "text": "Dashboard",
+      "bbox": {
+        "x0": 73,
+        "y0": 709,
+        "width": 113,
+        "height": 19
+      },
+      "words": [
+        {
+          "text": "Dashboard",
+          "bbox": {
+            "x0": 73,
+            "y0": 709,
+            "width": 113,
+            "height": 19
+          }
+        }
+      ]
+    },
+    {
+      "text": "W Documentation",
+      "bbox": {
+        "x0": 36,
+        "y0": 762,
+        "width": 198,
+        "height": 20
+      },
+      "words": [
+        {
+          "text": "W",
+          "bbox": {
+            "x0": 36,
+            "y0": 762,
+            "width": 21,
+            "height": 20
+          }
+        },
+        {
+          "text": "Documentation",
+          "bbox": {
+            "x0": 74,
+            "y0": 762,
+            "width": 160,
+            "height": 20
+          }
+        }
+      ]
+    },
+    {
+      "text": "Upgrade to unlock more",
+      "bbox": {
+        "x0": 48,
+        "y0": 998,
+        "width": 219,
+        "height": 17
+      },
+      "words": [
+        {
+          "text": "Upgrade",
+          "bbox": {
+            "x0": 48,
+            "y0": 998,
+            "width": 77,
+            "height": 17
+          }
+        },
+        {
+          "text": "to",
+          "bbox": {
+            "x0": 131,
+            "y0": 998,
+            "width": 17,
+            "height": 17
+          }
+        },
+        {
+          "text": "unlock",
+          "bbox": {
+            "x0": 155,
+            "y0": 998,
+            "width": 60,
+            "height": 17
+          }
+        },
+        {
+          "text": "more",
+          "bbox": {
+            "x0": 222,
+            "y0": 998,
+            "width": 45,
+            "height": 17
+          }
+        }
+      ]
+    },
+    {
+      "text": "Access higher limits, Pro",
+      "bbox": {
+        "x0": 47,
+        "y0": 1029,
+        "width": 222,
+        "height": 18
+      },
+      "words": [
+        {
+          "text": "Access",
+          "bbox": {
+            "x0": 47,
+            "y0": 1029,
+            "width": 65,
+            "height": 18
+          }
+        },
+        {
+          "text": "higher",
+          "bbox": {
+            "x0": 120,
+            "y0": 1029,
+            "width": 56,
+            "height": 18
+          }
+        },
+        {
+          "text": "limits,",
+          "bbox": {
+            "x0": 183,
+            "y0": 1029,
+            "width": 49,
+            "height": 18
+          }
+        },
+        {
+          "text": "Pro",
+          "bbox": {
+            "x0": 241,
+            "y0": 1029,
+            "width": 28,
+            "height": 18
+          }
+        }
+      ]
+    },
+    {
+      "text": "models, and more.",
+      "bbox": {
+        "x0": 48,
+        "y0": 1059,
+        "width": 165,
+        "height": 17
+      },
+      "words": [
+        {
+          "text": "models,",
+          "bbox": {
+            "x0": 48,
+            "y0": 1059,
+            "width": 68,
+            "height": 17
+          }
+        },
+        {
+          "text": "and",
+          "bbox": {
+            "x0": 124,
+            "y0": 1059,
+            "width": 32,
+            "height": 17
+          }
+        },
+        {
+          "text": "more.",
+          "bbox": {
+            "x0": 164,
+            "y0": 1059,
+            "width": 49,
+            "height": 17
+          }
+        }
+      ]
+    },
+    {
+      "text": "josymvine@gmail.com",
+      "bbox": {
+        "x0": 75,
+        "y0": 1208,
+        "width": 200,
+        "height": 23
+      },
+      "words": [
+        {
+          "text": "josymvine@gmail.com",
+          "bbox": {
+            "x0": 75,
+            "y0": 1208,
+            "width": 200,
+            "height": 23
+          }
+        }
+      ]
+    },
+    {
+      "text": "00: 65% 1:15",
+      "bbox": {
+        "x0": 397,
+        "y0": 25,
+        "width": 151,
+        "height": 21
+      },
+      "words": [
+        {
+          "text": "00:",
+          "bbox": {
+            "x0": 397,
+            "y0": 25,
+            "width": 34,
+            "height": 21
+          }
+        },
+        {
+          "text": "65%",
+          "bbox": {
+            "x0": 439,
+            "y0": 25,
+            "width": 28,
+            "height": 21
+          }
+        },
+        {
+          "text": "1:15",
+          "bbox": {
+            "x0": 514,
+            "y0": 25,
+            "width": 34,
+            "height": 21
+          }
+        }
+      ]
+    },
+    {
+      "text": "lodels",
+      "bbox": {
+        "x0": 352,
+        "y0": 400,
+        "width": 52,
+        "height": 15
+      },
+      "words": [
+        {
+          "text": "lodels",
+          "bbox": {
+            "x0": 352,
+            "y0": 400,
+            "width": 52,
+            "height": 15
+          }
+        }
+      ]
+    },
+    {
+      "text": "+",
+      "bbox": {
+        "x0": 414,
+        "y0": 190,
+        "width": 17,
+        "height": 16
+      },
+      "words": [
+        {
+          "text": "+",
+          "bbox": {
+            "x0": 414,
+            "y0": 190,
+            "width": 17,
+            "height": 16
+          }
+        }
+      ]
+    },
+    {
+      "text": "Ddels",
+      "bbox": {
+        "x0": 351,
+        "y0": 456,
+        "width": 79,
+        "height": 31
+      },
+      "words": [
+        {
+          "text": "Ddels",
+          "bbox": {
+            "x0": 351,
+            "y0": 456,
+            "width": 79,
+            "height": 31
+          }
+        }
+      ]
+    },
+    {
+      "text": "Chat",
+      "bbox": {
+        "x0": 385,
+        "y0": 583,
+        "width": 49,
+        "height": 17
+      },
+      "words": [
+        {
+          "text": "Chat",
+          "bbox": {
+            "x0": 385,
+            "y0": 583,
+            "width": 49,
+            "height": 17
+          }
+        }
+      ]
+    },
+    {
+      "text": "23",
+      "bbox": {
+        "x0": 453,
+        "y0": 98,
+        "width": 16,
+        "height": 10
+      },
+      "words": [
+        {
+          "text": "23",
+          "bbox": {
+            "x0": 453,
+            "y0": 98,
+            "width": 16,
+            "height": 10
+          }
+        }
+      ]
+    },
+    {
+      "text": "Agents",
+      "bbox": {
+        "x0": 444,
+        "y0": 400,
+        "width": 62,
+        "height": 18
+      },
+      "words": [
+        {
+          "text": "Agents",
+          "bbox": {
+            "x0": 444,
+            "y0": 400,
+            "width": 62,
+            "height": 18
+          }
+        }
+      ]
+    },
+    {
+      "text": "Code and",
+      "bbox": {
+        "x0": 385,
+        "y0": 550,
+        "width": 100,
+        "height": 16
+      },
+      "words": [
+        {
+          "text": "Code",
+          "bbox": {
+            "x0": 385,
+            "y0": 550,
+            "width": 55,
+            "height": 16
+          }
+        },
+        {
+          "text": "and",
+          "bbox": {
+            "x0": 448,
+            "y0": 550,
+            "width": 37,
+            "height": 16
+          }
+        }
+      ]
+    },
+    {
+      "text": "Video",
+      "bbox": {
+        "x0": 385,
+        "y0": 677,
+        "width": 60,
+        "height": 17
+      },
+      "words": [
+        {
+          "text": "Video",
+          "bbox": {
+            "x0": 385,
+            "y0": 677,
+            "width": 60,
+            "height": 17
+          }
+        }
+      ]
+    },
+    {
+      "text": "Generation",
+      "bbox": {
+        "x0": 385,
+        "y0": 711,
+        "width": 116,
+        "height": 17
+      },
+      "words": [
+        {
+          "text": "Generation",
+          "bbox": {
+            "x0": 385,
+            "y0": 711,
+            "width": 116,
+            "height": 17
+          }
+        }
+      ]
+    },
+    {
+      "text": "Real-time",
+      "bbox": {
+        "x0": 386,
+        "y0": 814,
+        "width": 100,
+        "height": 17
+      },
+      "words": [
+        {
+          "text": "Real-time",
+          "bbox": {
+            "x0": 386,
+            "y0": 814,
+            "width": 100,
+            "height": 17
+          }
+        }
+      ]
+    },
+    {
+      "text": "Run",
+      "bbox": {
+        "x0": 474,
+        "y0": 1203,
+        "width": 38,
+        "height": 16
+      },
+      "words": [
+        {
+          "text": "Run",
+          "bbox": {
+            "x0": 474,
+            "y0": 1203,
+            "width": 38,
+            "height": 16
+          }
+        }
+      ]
+    }
+  ]
+}
