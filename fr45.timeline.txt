@@ -1,0 +1,1004 @@
+FRAME: 45
+TIMELINE: 3.75s
+TOTAL_LINES: 24
+----------------------------------------
+EXTRACTED TEXT & BOUNDING BOXES [x0, y0, width, height]:
+[25, 90, 25, 27] G
+[91, 92, 234, 26] °5 udio.google.com
+[25, 231, 150, 40] API Keys
+[38, 342, 116, 22] All projects
+[26, 403, 220, 24] Group by • API Key
+[54, 512, 70, 24] ...KaRg
+[53, 547, 136, 19] Gemini API Key
+[54, 621, 62, 19] Project
+[54, 670, 86, 19] Project ID
+[53, 715, 70, 16] Created
+[54, 778, 88, 18] Billing tier
+[397, 25, 151, 21] 00: 65% 1:15
+[304, 407, 73, 21] Project
+[373, 238, 152, 23] Create API key
+[453, 97, 16, 11] 23
+[359, 617, 162, 25] My First Project
+[242, 669, 280, 19] vernal-mantra-460606-q0
+[405, 713, 117, 23] Jul 31, 2026
+[387, 762, 134, 22] Set up billing
+[450, 795, 71, 18] Free tier
+[128, 1144, 320, 24] Can't find your API keys here?
+[41, 1196, 494, 17] This list only shows API keys for projects imported into
+[39, 1220, 499, 22] Google AI Studio. Import other projects to manage their
+[35, 1246, 505, 19] associated API Keys. You can also create a new AP Key
+
+----------------------------------------
+RAW JSON COORDINATES:
+{
+  "frame": 45,
+  "time": 3.75,
+  "lines": [
+    {
+      "text": "G",
+      "bbox": {
+        "x0": 25,
+        "y0": 90,
+        "width": 25,
+        "height": 27
+      },
+      "words": [
+        {
+          "text": "G",
+          "bbox": {
+            "x0": 25,
+            "y0": 90,
+            "width": 25,
+            "height": 27
+          }
+        }
+      ]
+    },
+    {
+      "text": "°5 udio.google.com",
+      "bbox": {
+        "x0": 91,
+        "y0": 92,
+        "width": 234,
+        "height": 26
+      },
+      "words": [
+        {
+          "text": "°5",
+          "bbox": {
+            "x0": 91,
+            "y0": 92,
+            "width": 24,
+            "height": 26
+          }
+        },
+        {
+          "text": "udio.google.com",
+          "bbox": {
+            "x0": 139,
+            "y0": 92,
+            "width": 186,
+            "height": 26
+          }
+        }
+      ]
+    },
+    {
+      "text": "API Keys",
+      "bbox": {
+        "x0": 25,
+        "y0": 231,
+        "width": 150,
+        "height": 40
+      },
+      "words": [
+        {
+          "text": "API",
+          "bbox": {
+            "x0": 25,
+            "y0": 231,
+            "width": 57,
+            "height": 37
+          }
+        },
+        {
+          "text": "Keys",
+          "bbox": {
+            "x0": 91,
+            "y0": 233,
+            "width": 84,
+            "height": 38
+          }
+        }
+      ]
+    },
+    {
+      "text": "All projects",
+      "bbox": {
+        "x0": 38,
+        "y0": 342,
+        "width": 116,
+        "height": 22
+      },
+      "words": [
+        {
+          "text": "All",
+          "bbox": {
+            "x0": 38,
+            "y0": 343,
+            "width": 24,
+            "height": 20
+          }
+        },
+        {
+          "text": "projects",
+          "bbox": {
+            "x0": 72,
+            "y0": 342,
+            "width": 82,
+            "height": 21
+          }
+        }
+      ]
+    },
+    {
+      "text": "Group by • API Key",
+      "bbox": {
+        "x0": 26,
+        "y0": 403,
+        "width": 220,
+        "height": 24
+      },
+      "words": [
+        {
+          "text": "Group",
+          "bbox": {
+            "x0": 27,
+            "y0": 409,
+            "width": 54,
+            "height": 17
+          }
+        },
+        {
+          "text": "by",
+          "bbox": {
+            "x0": 88,
+            "y0": 409,
+            "width": 20,
+            "height": 17
+          }
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x0": 143,
+            "y0": 405,
+            "width": 10,
+            "height": 22
+          }
+        },
+        {
+          "text": "API",
+          "bbox": {
+            "x0": 173,
+            "y0": 405,
+            "width": 36,
+            "height": 22
+          }
+        },
+        {
+          "text": "Key",
+          "bbox": {
+            "x0": 208,
+            "y0": 405,
+            "width": 38,
+            "height": 23
+          }
+        }
+      ]
+    },
+    {
+      "text": "...KaRg",
+      "bbox": {
+        "x0": 54,
+        "y0": 512,
+        "width": 70,
+        "height": 24
+      },
+      "words": [
+        {
+          "text": "...KaRg",
+          "bbox": {
+            "x0": 54,
+            "y0": 512,
+            "width": 70,
+            "height": 24
+          }
+        }
+      ]
+    },
+    {
+      "text": "Gemini API Key",
+      "bbox": {
+        "x0": 53,
+        "y0": 547,
+        "width": 136,
+        "height": 19
+      },
+      "words": [
+        {
+          "text": "Gemini",
+          "bbox": {
+            "x0": 53,
+            "y0": 547,
+            "width": 61,
+            "height": 18
+          }
+        },
+        {
+          "text": "API",
+          "bbox": {
+            "x0": 121,
+            "y0": 548,
+            "width": 28,
+            "height": 17
+          }
+        },
+        {
+          "text": "Key",
+          "bbox": {
+            "x0": 158,
+            "y0": 548,
+            "width": 31,
+            "height": 18
+          }
+        }
+      ]
+    },
+    {
+      "text": "Project",
+      "bbox": {
+        "x0": 54,
+        "y0": 621,
+        "width": 62,
+        "height": 19
+      },
+      "words": [
+        {
+          "text": "Project",
+          "bbox": {
+            "x0": 54,
+            "y0": 621,
+            "width": 62,
+            "height": 19
+          }
+        }
+      ]
+    },
+    {
+      "text": "Project ID",
+      "bbox": {
+        "x0": 54,
+        "y0": 670,
+        "width": 86,
+        "height": 19
+      },
+      "words": [
+        {
+          "text": "Project",
+          "bbox": {
+            "x0": 54,
+            "y0": 670,
+            "width": 62,
+            "height": 19
+          }
+        },
+        {
+          "text": "ID",
+          "bbox": {
+            "x0": 124,
+            "y0": 670,
+            "width": 16,
+            "height": 19
+          }
+        }
+      ]
+    },
+    {
+      "text": "Created",
+      "bbox": {
+        "x0": 53,
+        "y0": 715,
+        "width": 70,
+        "height": 16
+      },
+      "words": [
+        {
+          "text": "Created",
+          "bbox": {
+            "x0": 53,
+            "y0": 715,
+            "width": 70,
+            "height": 16
+          }
+        }
+      ]
+    },
+    {
+      "text": "Billing tier",
+      "bbox": {
+        "x0": 54,
+        "y0": 778,
+        "width": 88,
+        "height": 18
+      },
+      "words": [
+        {
+          "text": "Billing",
+          "bbox": {
+            "x0": 54,
+            "y0": 778,
+            "width": 52,
+            "height": 18
+          }
+        },
+        {
+          "text": "tier",
+          "bbox": {
+            "x0": 113,
+            "y0": 778,
+            "width": 29,
+            "height": 18
+          }
+        }
+      ]
+    },
+    {
+      "text": "00: 65% 1:15",
+      "bbox": {
+        "x0": 397,
+        "y0": 25,
+        "width": 151,
+        "height": 21
+      },
+      "words": [
+        {
+          "text": "00:",
+          "bbox": {
+            "x0": 397,
+            "y0": 25,
+            "width": 34,
+            "height": 21
+          }
+        },
+        {
+          "text": "65%",
+          "bbox": {
+            "x0": 439,
+            "y0": 25,
+            "width": 28,
+            "height": 21
+          }
+        },
+        {
+          "text": "1:15",
+          "bbox": {
+            "x0": 514,
+            "y0": 25,
+            "width": 34,
+            "height": 21
+          }
+        }
+      ]
+    },
+    {
+      "text": "Project",
+      "bbox": {
+        "x0": 304,
+        "y0": 407,
+        "width": 73,
+        "height": 21
+      },
+      "words": [
+        {
+          "text": "Project",
+          "bbox": {
+            "x0": 304,
+            "y0": 407,
+            "width": 73,
+            "height": 21
+          }
+        }
+      ]
+    },
+    {
+      "text": "Create API key",
+      "bbox": {
+        "x0": 373,
+        "y0": 238,
+        "width": 152,
+        "height": 23
+      },
+      "words": [
+        {
+          "text": "Create",
+          "bbox": {
+            "x0": 373,
+            "y0": 238,
+            "width": 69,
+            "height": 22
+          }
+        },
+        {
+          "text": "API",
+          "bbox": {
+            "x0": 459,
+            "y0": 240,
+            "width": 33,
+            "height": 20
+          }
+        },
+        {
+          "text": "key",
+          "bbox": {
+            "x0": 493,
+            "y0": 240,
+            "width": 32,
+            "height": 21
+          }
+        }
+      ]
+    },
+    {
+      "text": "23",
+      "bbox": {
+        "x0": 453,
+        "y0": 97,
+        "width": 16,
+        "height": 11
+      },
+      "words": [
+        {
+          "text": "23",
+          "bbox": {
+            "x0": 453,
+            "y0": 97,
+            "width": 16,
+            "height": 11
+          }
+        }
+      ]
+    },
+    {
+      "text": "My First Project",
+      "bbox": {
+        "x0": 359,
+        "y0": 617,
+        "width": 162,
+        "height": 25
+      },
+      "words": [
+        {
+          "text": "My",
+          "bbox": {
+            "x0": 359,
+            "y0": 618,
+            "width": 28,
+            "height": 24
+          }
+        },
+        {
+          "text": "First",
+          "bbox": {
+            "x0": 397,
+            "y0": 618,
+            "width": 43,
+            "height": 23
+          }
+        },
+        {
+          "text": "Project",
+          "bbox": {
+            "x0": 449,
+            "y0": 617,
+            "width": 72,
+            "height": 24
+          }
+        }
+      ]
+    },
+    {
+      "text": "vernal-mantra-460606-q0",
+      "bbox": {
+        "x0": 242,
+        "y0": 669,
+        "width": 280,
+        "height": 19
+      },
+      "words": [
+        {
+          "text": "vernal-mantra-460606-q0",
+          "bbox": {
+            "x0": 242,
+            "y0": 669,
+            "width": 280,
+            "height": 19
+          }
+        }
+      ]
+    },
+    {
+      "text": "Jul 31, 2026",
+      "bbox": {
+        "x0": 405,
+        "y0": 713,
+        "width": 117,
+        "height": 23
+      },
+      "words": [
+        {
+          "text": "Jul",
+          "bbox": {
+            "x0": 405,
+            "y0": 713,
+            "width": 27,
+            "height": 23
+          }
+        },
+        {
+          "text": "31,",
+          "bbox": {
+            "x0": 434,
+            "y0": 713,
+            "width": 25,
+            "height": 23
+          }
+        },
+        {
+          "text": "2026",
+          "bbox": {
+            "x0": 470,
+            "y0": 713,
+            "width": 52,
+            "height": 23
+          }
+        }
+      ]
+    },
+    {
+      "text": "Set up billing",
+      "bbox": {
+        "x0": 387,
+        "y0": 762,
+        "width": 134,
+        "height": 22
+      },
+      "words": [
+        {
+          "text": "Set",
+          "bbox": {
+            "x0": 387,
+            "y0": 763,
+            "width": 33,
+            "height": 20
+          }
+        },
+        {
+          "text": "up",
+          "bbox": {
+            "x0": 428,
+            "y0": 763,
+            "width": 25,
+            "height": 20
+          }
+        },
+        {
+          "text": "billing",
+          "bbox": {
+            "x0": 461,
+            "y0": 763,
+            "width": 60,
+            "height": 21
+          }
+        }
+      ]
+    },
+    {
+      "text": "Free tier",
+      "bbox": {
+        "x0": 450,
+        "y0": 795,
+        "width": 71,
+        "height": 18
+      },
+      "words": [
+        {
+          "text": "Free",
+          "bbox": {
+            "x0": 450,
+            "y0": 796,
+            "width": 35,
+            "height": 17
+          }
+        },
+        {
+          "text": "tier",
+          "bbox": {
+            "x0": 493,
+            "y0": 795,
+            "width": 28,
+            "height": 17
+          }
+        }
+      ]
+    },
+    {
+      "text": "Can't find your API keys here?",
+      "bbox": {
+        "x0": 128,
+        "y0": 1144,
+        "width": 320,
+        "height": 24
+      },
+      "words": [
+        {
+          "text": "Can't",
+          "bbox": {
+            "x0": 128,
+            "y0": 1144,
+            "width": 55,
+            "height": 24
+          }
+        },
+        {
+          "text": "find",
+          "bbox": {
+            "x0": 190,
+            "y0": 1144,
+            "width": 40,
+            "height": 24
+          }
+        },
+        {
+          "text": "your",
+          "bbox": {
+            "x0": 238,
+            "y0": 1144,
+            "width": 47,
+            "height": 24
+          }
+        },
+        {
+          "text": "API",
+          "bbox": {
+            "x0": 304,
+            "y0": 1144,
+            "width": 33,
+            "height": 24
+          }
+        },
+        {
+          "text": "keys",
+          "bbox": {
+            "x0": 335,
+            "y0": 1144,
+            "width": 47,
+            "height": 24
+          }
+        },
+        {
+          "text": "here?",
+          "bbox": {
+            "x0": 391,
+            "y0": 1144,
+            "width": 57,
+            "height": 24
+          }
+        }
+      ]
+    },
+    {
+      "text": "This list only shows API keys for projects imported into",
+      "bbox": {
+        "x0": 41,
+        "y0": 1196,
+        "width": 494,
+        "height": 17
+      },
+      "words": [
+        {
+          "text": "This",
+          "bbox": {
+            "x0": 41,
+            "y0": 1196,
+            "width": 37,
+            "height": 17
+          }
+        },
+        {
+          "text": "list",
+          "bbox": {
+            "x0": 86,
+            "y0": 1196,
+            "width": 23,
+            "height": 17
+          }
+        },
+        {
+          "text": "only",
+          "bbox": {
+            "x0": 116,
+            "y0": 1196,
+            "width": 37,
+            "height": 17
+          }
+        },
+        {
+          "text": "shows",
+          "bbox": {
+            "x0": 160,
+            "y0": 1196,
+            "width": 56,
+            "height": 17
+          }
+        },
+        {
+          "text": "API",
+          "bbox": {
+            "x0": 224,
+            "y0": 1196,
+            "width": 28,
+            "height": 17
+          }
+        },
+        {
+          "text": "keys",
+          "bbox": {
+            "x0": 260,
+            "y0": 1196,
+            "width": 40,
+            "height": 17
+          }
+        },
+        {
+          "text": "for",
+          "bbox": {
+            "x0": 307,
+            "y0": 1196,
+            "width": 24,
+            "height": 17
+          }
+        },
+        {
+          "text": "projects",
+          "bbox": {
+            "x0": 338,
+            "y0": 1196,
+            "width": 71,
+            "height": 17
+          }
+        },
+        {
+          "text": "imported",
+          "bbox": {
+            "x0": 417,
+            "y0": 1196,
+            "width": 78,
+            "height": 17
+          }
+        },
+        {
+          "text": "into",
+          "bbox": {
+            "x0": 504,
+            "y0": 1196,
+            "width": 31,
+            "height": 17
+          }
+        }
+      ]
+    },
+    {
+      "text": "Google AI Studio. Import other projects to manage their",
+      "bbox": {
+        "x0": 39,
+        "y0": 1220,
+        "width": 499,
+        "height": 22
+      },
+      "words": [
+        {
+          "text": "Google",
+          "bbox": {
+            "x0": 39,
+            "y0": 1220,
+            "width": 62,
+            "height": 22
+          }
+        },
+        {
+          "text": "AI",
+          "bbox": {
+            "x0": 115,
+            "y0": 1220,
+            "width": 20,
+            "height": 22
+          }
+        },
+        {
+          "text": "Studio.",
+          "bbox": {
+            "x0": 133,
+            "y0": 1220,
+            "width": 60,
+            "height": 22
+          }
+        },
+        {
+          "text": "Import",
+          "bbox": {
+            "x0": 202,
+            "y0": 1220,
+            "width": 57,
+            "height": 22
+          }
+        },
+        {
+          "text": "other",
+          "bbox": {
+            "x0": 266,
+            "y0": 1220,
+            "width": 46,
+            "height": 22
+          }
+        },
+        {
+          "text": "projects",
+          "bbox": {
+            "x0": 319,
+            "y0": 1220,
+            "width": 71,
+            "height": 22
+          }
+        },
+        {
+          "text": "to",
+          "bbox": {
+            "x0": 397,
+            "y0": 1220,
+            "width": 16,
+            "height": 22
+          }
+        },
+        {
+          "text": "manage",
+          "bbox": {
+            "x0": 421,
+            "y0": 1220,
+            "width": 70,
+            "height": 22
+          }
+        },
+        {
+          "text": "their",
+          "bbox": {
+            "x0": 498,
+            "y0": 1220,
+            "width": 40,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "text": "associated API Keys. You can also create a new AP Key",
+      "bbox": {
+        "x0": 35,
+        "y0": 1246,
+        "width": 505,
+        "height": 19
+      },
+      "words": [
+        {
+          "text": "associated",
+          "bbox": {
+            "x0": 35,
+            "y0": 1246,
+            "width": 96,
+            "height": 19
+          }
+        },
+        {
+          "text": "API",
+          "bbox": {
+            "x0": 144,
+            "y0": 1246,
+            "width": 30,
+            "height": 19
+          }
+        },
+        {
+          "text": "Keys.",
+          "bbox": {
+            "x0": 176,
+            "y0": 1246,
+            "width": 46,
+            "height": 19
+          }
+        },
+        {
+          "text": "You",
+          "bbox": {
+            "x0": 229,
+            "y0": 1246,
+            "width": 34,
+            "height": 19
+          }
+        },
+        {
+          "text": "can",
+          "bbox": {
+            "x0": 269,
+            "y0": 1246,
+            "width": 31,
+            "height": 19
+          }
+        },
+        {
+          "text": "also",
+          "bbox": {
+            "x0": 308,
+            "y0": 1246,
+            "width": 35,
+            "height": 19
+          }
+        },
+        {
+          "text": "create",
+          "bbox": {
+            "x0": 351,
+            "y0": 1246,
+            "width": 55,
+            "height": 19
+          }
+        },
+        {
+          "text": "a",
+          "bbox": {
+            "x0": 413,
+            "y0": 1246,
+            "width": 9,
+            "height": 19
+          }
+        },
+        {
+          "text": "new",
+          "bbox": {
+            "x0": 430,
+            "y0": 1246,
+            "width": 36,
+            "height": 19
+          }
+        },
+        {
+          "text": "AP",
+          "bbox": {
+            "x0": 482,
+            "y0": 1246,
+            "width": 15,
+            "height": 19
+          }
+        },
+        {
+          "text": "Key",
+          "bbox": {
+            "x0": 509,
+            "y0": 1246,
+            "width": 31,
+            "height": 19
+          }
+        }
+      ]
+    }
+  ]
+}
