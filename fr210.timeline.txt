@@ -1,0 +1,392 @@
+FRAME: 210
+TIMELINE: 17.50s
+TOTAL_LINES: 12
+----------------------------------------
+EXTRACTED TEXT & BOUNDING BOXES [x0, y0, width, height]:
+[25, 92, 25, 25] G
+[27, 178, 222, 37] Google AI Studio
+[5, 310, 36, 17] und
+[5, 712, 31, 16] ard
+[91, 92, 234, 26] 23 udio.google.com
+[0, 762, 80, 21] entation
+[48, 998, 219, 18] Upgrade to unlock more
+[47, 1029, 222, 18] Access higher limits, Pro
+[48, 1059, 165, 17] models, and more.
+[75, 1212, 202, 18] josymvine@gmail.com
+[376, 24, 173, 21] BO 0 65% 1:15
+[453, 97, 16, 11] 23
+
+----------------------------------------
+RAW JSON COORDINATES:
+{
+  "frame": 210,
+  "time": 17.5,
+  "lines": [
+    {
+      "text": "G",
+      "bbox": {
+        "x0": 25,
+        "y0": 92,
+        "width": 25,
+        "height": 25
+      },
+      "words": [
+        {
+          "text": "G",
+          "bbox": {
+            "x0": 25,
+            "y0": 92,
+            "width": 25,
+            "height": 25
+          }
+        }
+      ]
+    },
+    {
+      "text": "Google AI Studio",
+      "bbox": {
+        "x0": 27,
+        "y0": 178,
+        "width": 222,
+        "height": 37
+      },
+      "words": [
+        {
+          "text": "Google",
+          "bbox": {
+            "x0": 27,
+            "y0": 180,
+            "width": 98,
+            "height": 35
+          }
+        },
+        {
+          "text": "AI",
+          "bbox": {
+            "x0": 134,
+            "y0": 180,
+            "width": 24,
+            "height": 33
+          }
+        },
+        {
+          "text": "Studio",
+          "bbox": {
+            "x0": 168,
+            "y0": 178,
+            "width": 81,
+            "height": 35
+          }
+        }
+      ]
+    },
+    {
+      "text": "und",
+      "bbox": {
+        "x0": 5,
+        "y0": 310,
+        "width": 36,
+        "height": 17
+      },
+      "words": [
+        {
+          "text": "und",
+          "bbox": {
+            "x0": 5,
+            "y0": 310,
+            "width": 36,
+            "height": 17
+          }
+        }
+      ]
+    },
+    {
+      "text": "ard",
+      "bbox": {
+        "x0": 5,
+        "y0": 712,
+        "width": 31,
+        "height": 16
+      },
+      "words": [
+        {
+          "text": "ard",
+          "bbox": {
+            "x0": 5,
+            "y0": 712,
+            "width": 31,
+            "height": 16
+          }
+        }
+      ]
+    },
+    {
+      "text": "23 udio.google.com",
+      "bbox": {
+        "x0": 91,
+        "y0": 92,
+        "width": 234,
+        "height": 26
+      },
+      "words": [
+        {
+          "text": "23",
+          "bbox": {
+            "x0": 91,
+            "y0": 92,
+            "width": 25,
+            "height": 26
+          }
+        },
+        {
+          "text": "udio.google.com",
+          "bbox": {
+            "x0": 137,
+            "y0": 92,
+            "width": 188,
+            "height": 26
+          }
+        }
+      ]
+    },
+    {
+      "text": "entation",
+      "bbox": {
+        "x0": 0,
+        "y0": 762,
+        "width": 80,
+        "height": 21
+      },
+      "words": [
+        {
+          "text": "entation",
+          "bbox": {
+            "x0": 0,
+            "y0": 762,
+            "width": 80,
+            "height": 21
+          }
+        }
+      ]
+    },
+    {
+      "text": "Upgrade to unlock more",
+      "bbox": {
+        "x0": 48,
+        "y0": 998,
+        "width": 219,
+        "height": 18
+      },
+      "words": [
+        {
+          "text": "Upgrade",
+          "bbox": {
+            "x0": 48,
+            "y0": 998,
+            "width": 77,
+            "height": 18
+          }
+        },
+        {
+          "text": "to",
+          "bbox": {
+            "x0": 131,
+            "y0": 998,
+            "width": 17,
+            "height": 18
+          }
+        },
+        {
+          "text": "unlock",
+          "bbox": {
+            "x0": 155,
+            "y0": 998,
+            "width": 60,
+            "height": 18
+          }
+        },
+        {
+          "text": "more",
+          "bbox": {
+            "x0": 222,
+            "y0": 998,
+            "width": 45,
+            "height": 18
+          }
+        }
+      ]
+    },
+    {
+      "text": "Access higher limits, Pro",
+      "bbox": {
+        "x0": 47,
+        "y0": 1029,
+        "width": 222,
+        "height": 18
+      },
+      "words": [
+        {
+          "text": "Access",
+          "bbox": {
+            "x0": 47,
+            "y0": 1029,
+            "width": 65,
+            "height": 18
+          }
+        },
+        {
+          "text": "higher",
+          "bbox": {
+            "x0": 120,
+            "y0": 1029,
+            "width": 56,
+            "height": 18
+          }
+        },
+        {
+          "text": "limits,",
+          "bbox": {
+            "x0": 183,
+            "y0": 1029,
+            "width": 49,
+            "height": 18
+          }
+        },
+        {
+          "text": "Pro",
+          "bbox": {
+            "x0": 241,
+            "y0": 1029,
+            "width": 28,
+            "height": 18
+          }
+        }
+      ]
+    },
+    {
+      "text": "models, and more.",
+      "bbox": {
+        "x0": 48,
+        "y0": 1059,
+        "width": 165,
+        "height": 17
+      },
+      "words": [
+        {
+          "text": "models,",
+          "bbox": {
+            "x0": 48,
+            "y0": 1059,
+            "width": 68,
+            "height": 17
+          }
+        },
+        {
+          "text": "and",
+          "bbox": {
+            "x0": 124,
+            "y0": 1059,
+            "width": 32,
+            "height": 17
+          }
+        },
+        {
+          "text": "more.",
+          "bbox": {
+            "x0": 164,
+            "y0": 1059,
+            "width": 49,
+            "height": 17
+          }
+        }
+      ]
+    },
+    {
+      "text": "josymvine@gmail.com",
+      "bbox": {
+        "x0": 75,
+        "y0": 1212,
+        "width": 202,
+        "height": 18
+      },
+      "words": [
+        {
+          "text": "josymvine@gmail.com",
+          "bbox": {
+            "x0": 75,
+            "y0": 1212,
+            "width": 202,
+            "height": 18
+          }
+        }
+      ]
+    },
+    {
+      "text": "BO 0 65% 1:15",
+      "bbox": {
+        "x0": 376,
+        "y0": 24,
+        "width": 173,
+        "height": 21
+      },
+      "words": [
+        {
+          "text": "BO",
+          "bbox": {
+            "x0": 376,
+            "y0": 24,
+            "width": 24,
+            "height": 21
+          }
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x0": 406,
+            "y0": 24,
+            "width": 19,
+            "height": 21
+          }
+        },
+        {
+          "text": "65%",
+          "bbox": {
+            "x0": 441,
+            "y0": 24,
+            "width": 28,
+            "height": 21
+          }
+        },
+        {
+          "text": "1:15",
+          "bbox": {
+            "x0": 514,
+            "y0": 24,
+            "width": 35,
+            "height": 21
+          }
+        }
+      ]
+    },
+    {
+      "text": "23",
+      "bbox": {
+        "x0": 453,
+        "y0": 97,
+        "width": 16,
+        "height": 11
+      },
+      "words": [
+        {
+          "text": "23",
+          "bbox": {
+            "x0": 453,
+            "y0": 97,
+            "width": 16,
+            "height": 11
+          }
+        }
+      ]
+    }
+  ]
+}
